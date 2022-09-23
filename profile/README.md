@@ -26,6 +26,6 @@ This GitHub profile provides resources for firmware developers using our technol
   
   * Quick start developing IoT devices within the popular Arduino IDE
   
-  * Included examples for LoRAWAN end node and GNSS solutions for IoT such as u-blox ClouLocate
+  * Included examples for LoRAWAN end node and GNSS solutions for IoT such as u-blox CloudLocate
   
   * Access lots of libraries available from the Arduino community
