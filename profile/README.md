@@ -1,4 +1,4 @@
-![Alt text](/profile/overview_cover.png?raw=true)
+![Move-X Cover](/profile/overview_cover.png?raw=true)
 
 Move-X is a division of [Move Solutions](https://www.movesolutions.it/), dedicated to the design of IoT devices. 
 
