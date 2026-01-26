@@ -1,14 +1,11 @@
-![Move-X Cover](/profile/overview_cover.png?raw=true)
+![Cover](/profile/overview_cover.png?raw=true)
 
-Move-X is a division of [Move Solutions](https://www.movesolutions.it/), dedicated to the design of IoT devices. 
+Move Silicon is a division of Move S.p.A. focused on accelerating chip design with AI-driven solutions. We enable companies to optimize workflows, enhance innovation, and reduce time-to-market for analog and mixed-signal circuits. Our core offerings include [Spaceman](https://movesilicon.com/spaceman/spaceman-overview), an AI tool that automates analog block sizing within existing EDA flows, and [Custom Silicon Services](https://movesilicon.com/asic-design/custom-asic), covering end-to-end ASIC design and IP creation.
+Many applications, one result: helping businesses bring complex silicon projects to life efficiently and reliably.
 
-We create innovative technology with one aim: encouraging companies to leverage the opportunities that come with Digital Transformation. We help our clients optimize production processes, supply chains, services and infrastructures; we support them in designing intelligent environmental monitoring systems, in detecting air and water quality, in implementing smart agriculture technology, and much more. 
+Move Silicon also develops IoT solutions. **MAMWLE** is our ultra low-power radio module for high-performance IoT devices, embedding a Cortex-M4 core for LoRaWAN stack and application code, a Sub-GHz radio, and a rich set of peripherals. It also powers **Cicerone**, where LoRaWAN meets best-in-class low-power GNSS technology.
 
-Many applications, one result: helping businesses use their resources more efficiently.
-
-[Move-X MAMWLE](https://www.move-x.it/mamwle-module/) is our ultra low-power radio module for high-performance IoT devices. It embeds a powerful Cortex-M4 core for LoRaWAN stack and application code, a Sub-GHz radio and rich set of peripherals into a small footprint. The MAMWLE is also the core of [Move-X Cicerone](https://www.move-x.it/cicerone-board/), where LoRaWAN meets best in class low-power GNSS technology.
-
-Visit [Move-X's website](https://www.move-x.it/) for more info and documentation regarding our offer.
+Discover more about our AI tools and IoT solutions on [Move Silicon's website](https://www.movesilicon.com/).
 
 # Contents
 
@@ -24,7 +21,7 @@ This GitHub profile provides resources for firmware developers using our technol
 
 * [__LoRaWAN AT slave__](https://github.com/Move-X/LoRaWAN_AT_Slave) ready to use firmware for adding LoRaWAN connectivity to your solution using the MAMWLE as transceiver
 
-* [__Move-Xduino__](https://github.com/Move-X/Move-Xduino): Arduino support package for Move-X's MAMWLE module and Cicerone board
+* [__Move-Xduino__](https://github.com/Move-X/Move-Xduino): Arduino support package for MAMWLE module and Cicerone board
   
   * Quick start developing IoT devices within the popular Arduino IDE
   
